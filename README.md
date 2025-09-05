@@ -74,17 +74,16 @@ A interface contém:
 
 **Saída:**
 
-Binário A: 0101
+- Binário A: 0101
+- Binário B: 1001
 
-Binário B: 1001
-
-AND: 0001 (1)
-
-OR: 1101 (13)
-
-XOR: 1100 (12)
-
-NOT A: 1010 (10)
+**Resultados Lógicos:**
+- AND: 0001 (1)
+- OR: 1101 (13)
+- XOR: 1100 (12)
+- NOT A: 1010 (10)
+  
+  <img width="1342" height="763" alt="Captura de tela 2025-09-05 135322" src="https://github.com/user-attachments/assets/28008486-7a48-4e55-ba48-528db4e6a649" />
 
 ---
 
